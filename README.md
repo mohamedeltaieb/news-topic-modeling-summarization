@@ -1,6 +1,10 @@
 # News Topic Modeling and Summarization Project
 <img width="1905" height="825" alt="image" src="https://github.com/user-attachments/assets/5a28ff50-7771-4b4f-be89-a7d187e9f52e" />
 
+<img width="1668" height="906" alt="image" src="https://github.com/user-attachments/assets/88de20d1-cd2f-4ffb-8b29-54abda6b2a12" />
+
+<img width="1856" height="922" alt="image" src="https://github.com/user-attachments/assets/fb16e8cb-0e5f-4d80-8fdc-45c6e4ed0476" />
+
 ## Overview
 
 This project provides a comprehensive pipeline for analyzing news articles through topic modeling and summarization techniques. It processes raw news data, identifies latent topics using LDA (Latent Dirichlet Allocation), and generates both extractive and abstractive summaries of articles.
